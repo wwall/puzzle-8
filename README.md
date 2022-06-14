@@ -1,2 +1,3 @@
-# puzzle-8
-Головоломка 8ка.
+puzzle-8
+========
+README text here.
