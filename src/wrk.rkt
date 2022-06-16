@@ -1,5 +1,6 @@
 #lang racket
 
+
 (define-struct game-struct [rings vertex transitions])
 
 (define  game-state (list
@@ -38,3 +39,7 @@
   (check-equal? (backward-transitions (get-vertex-set 3)) '((v2 v1) (v1 v0) (v0 v2)) )
 
   ) 
+
+
+
+

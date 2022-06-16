@@ -1,3 +1,6 @@
 puzzle-8
 ========
-README text here.
+Головоломка "Восьмерка"
+
+![Внешний вид ](./scribblings/img/puzzle.png "Внешний вид")
+
